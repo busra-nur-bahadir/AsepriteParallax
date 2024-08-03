@@ -22,7 +22,7 @@ local buttonHeight = 30
 
 dlg:button {
     id = "info",
-    text = "INFO",
+    text = "?",
     width = buttonWidth,
     height = buttonHeight,
     onclick = function()
